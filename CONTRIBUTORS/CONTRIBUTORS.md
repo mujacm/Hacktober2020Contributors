@@ -13,3 +13,5 @@ For example, if your name is Arnav, create and name your file 'arnav.md' under t
 
 ### Hobbies: I make cool projects....
 
+Name: Rishav Agarwal
+College: Manipal University Jaipur
