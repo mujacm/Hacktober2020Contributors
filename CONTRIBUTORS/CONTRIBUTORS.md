@@ -13,4 +13,7 @@ For example, if your name is Arnav, create and name your file 'arnav.md' under t
 
 ### Hobbies: I make cool projects....
 
+
+rajit_kuthiala(general info)
 raina jangid-github is the "facebook" of git.
+
