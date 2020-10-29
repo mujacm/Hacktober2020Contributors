@@ -13,13 +13,8 @@ For example, if your name is Arnav, create and name your file 'arnav.md' under t
 
 ### Hobbies: I make cool projects....
 
-
-Name: Rishav Agarwal
-College: Manipal University Jaipur
-Trying to make another successful pull request.
-
-rajit_kuthiala(general info)
-
-raina jangid-github is the "facebook" of git.
-
-
+If you have contributed to this repository, then do mention your names below!
+1. Jasraj Singh Juneja [GitHUb Account](https://www.github.com/factualsquirrel)
+2. Raina Jangid
+3. Rishav Agarwal
+4. Rajit Kuthiala
