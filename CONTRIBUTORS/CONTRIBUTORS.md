@@ -20,3 +20,5 @@ College: Manipal University Jaipur
 rajit_kuthiala(general info)
 
 raina jangid-github is the "facebook" of git.
+
+Jasraj Singh Juneja [GitHUb Account](https://www.github.com/factualsquirrel)
